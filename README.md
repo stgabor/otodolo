@@ -1,0 +1,2 @@
+# otodolo
+Amőba játék
